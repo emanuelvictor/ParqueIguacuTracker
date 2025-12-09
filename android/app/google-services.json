@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "790119027082",
+    "project_id": "tracker-fc907",
+    "storage_bucket": "tracker-fc907.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790119027082:android:a1c6671184dc11734cb873",
+        "android_client_info": {
+          "package_name": "br.org.itaipuparquetec.tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxazLq6l1jHm3jezJ8ApMrT6WL6-W0azE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

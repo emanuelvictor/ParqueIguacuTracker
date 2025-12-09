@@ -1,4 +1,4 @@
-package com.parqueiguacutracker
+package br.org.itaipuparquetec.tracker
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
